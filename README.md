@@ -14,6 +14,6 @@ Outside academics I'm into cybersecurity — TryHackMe rooms, log analysis, the 
 
 ---
 
-**Currently:** Semester 2 | Targeting a 9.5 SGPA | Building toward my first real internship
+**Currently:** Semester 2 |Sem 1 :- 9.74 SGPA | Targeting to maintain a 9.5 CGPA | Building toward my first real internship
 
 ---
