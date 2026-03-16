@@ -1,16 +1,19 @@
-## Hi there 👋
+# Aaryan Raorane
 
-<!--
-**WisdomKingAR/WisdomKingAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech AI & Data Science @ DJSCE, Mumbai — first year, still figuring things out.
 
-Here are some ideas to get you started:
+I know enough to be dangerous: HTML, C, C++, Java, and Python (basics). The rest I build with AI assistance — vibe coding gets things shipped, actual understanding comes after. That gap is what I'm closing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside academics I'm into cybersecurity — TryHackMe rooms, log analysis, the whole rabbit hole. I've done a couple of hackathons, placed some, got filtered out of others. Both are useful.
+
+---
+
+**Languages:** HTML · C · C++ · Java · Python  
+**Learning:** Data Structures, cybersecurity fundamentals  
+**Tools:** Git · TryHackMe · Claude  
+
+---
+
+**Currently:** Semester 2 | Targeting a 9.5 SGPA | Building toward my first real internship
+
+---
