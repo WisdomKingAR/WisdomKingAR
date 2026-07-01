@@ -14,7 +14,7 @@ continues.
 
 ---
 
-**Languages:** Java · Python . C
+**Languages:** Java · Python . C 
 **Frontend:** React.js · HTML5 · Tailwind CSS  
 **Backend & DB:** FastAPI · MongoDB  
 **Cybersecurity:** Kali Linux  
